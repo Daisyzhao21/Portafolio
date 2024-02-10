@@ -30,9 +30,7 @@
 
 **[Pewlett Hackard Analysis](https://github.com/Daisyzhao2023/Pewlett_Hackard_Analysis)** - An SQL project analyzing workforce data of a fictitious company. (Updated on Nov 13, 2021)
 
-**[World Weather Analysis](https://github.com/Daisyzhao2023/World_
-
-Weather_Analysis)** - Analyzed weather data across the world using Python to recommend ideal vacation spots. (Updated on Nov 6, 2021)
+**[World Weather Analysis](https://github.com/Daisyzhao2023/World_Weather_Analysis)** - Analyzed weather data across the world using Python to recommend ideal vacation spots. (Updated on Nov 6, 2021)
 
 **[PyBer Analysis](https://github.com/Daisyzhao2023/PyBer_Analysis)** - A Python project for analyzing ride-sharing data across various city types. (Updated on Oct 30, 2021)
 
